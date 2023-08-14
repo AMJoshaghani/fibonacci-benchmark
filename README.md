@@ -7,19 +7,17 @@ As a result of the importance of Callback functions we focused on this concept a
 
 # Programming Languages
 
-[ ] C 
-[ ] C++ 
+- [ ] C 
+- [ ] C++ 
 - [x] Java
-[ ] Dart 
+- [ ] Dart 
 - [x] Kotlin
-[ ] Perl 
-- [x] Python
-[ ] Golang 
-- [ ] C
-[ ] Copol
-- [ ] C++
-[ ] Assembly
-- [ ] Dart
-[ ] Lua
 - [x] Perl
-[ ] Visual basic
+- [x] Python
+- [x] Rust
+- [x] Golang 
+- [ ] Copol
+- [ ] Assembly
+- [ ] Dart
+- [ ] Lua
+- [ ] Visual basic
