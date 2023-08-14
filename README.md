@@ -4,7 +4,3 @@ Implementation of the sequence is important in programming in the manner of **Ca
 As a result of the importance of Callback functions we focused on this concept and used the same logic for some of programming languages and made benchmark from their compiling/intrepretering speed.
 ![benchmark result](https://s8.uupload.ir/files/screenshot_from_2023-08-14_15-20-39_bj5t.png)
 
-# Programming Languages
-[X] Python 
-[X] Perl 
-[X] Java Script
