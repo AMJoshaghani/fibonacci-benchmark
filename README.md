@@ -21,3 +21,29 @@ As a result of the importance of Callback functions we focused on this concept a
 - [ ] Dart
 - [ ] Lua
 - [ ] Visual basic
+- [ ] Cow
+- [ ] Nim
+- [ ] Machine Code
+- [ ] Lisp
+- [ ] Erlang
+- [ ] Elm
+- [ ] Delphi
+- [ ] Pascal
+- [ ] D
+- [ ] Objective-C
+- [ ] Carbon
+- [ ] Ruby
+- [ ] Scala
+- [ ] Swift
+- [ ] Mojo
+- [ ] mr-hashemi (زبان آقای هاشمی)
+- [ ] Lua
+- [ ] Haskell
+- [ ] Zig
+- [ ] Bash
+- [ ] V
+- [ ] Type Script
+- [ ] Cow
+- [ ] Fortran
+- [ ] Brainfuck
+- [ ] F#
