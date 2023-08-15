@@ -47,4 +47,5 @@ As a result of the importance of Callback functions we focused on this concept a
 - [ ] Fortran
 - [ ] Brainfuck
 - [ ] F#
-- [ ] PHP
+- [x] PHP
+- [x] Java Script
