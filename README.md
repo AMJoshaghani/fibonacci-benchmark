@@ -40,7 +40,7 @@ As a result of the importance of Callback functions we focused on this concept a
 - [ ] Lua
 - [ ] Haskell
 - [ ] Zig
-- [ ] Bash
+- [x] Bash
 - [ ] V
 - [ ] Type Script
 - [ ] Cow
