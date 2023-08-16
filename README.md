@@ -19,7 +19,7 @@ As a result of the importance of Callback functions we focused on this concept a
 - [ ] Copol
 - [ ] Assembly
 - [ ] Dart
-- [ ] Lua
+- [x] Lua
 - [ ] Visual basic
 - [x] Cow
 - [ ] Nim
