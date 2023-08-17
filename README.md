@@ -41,7 +41,6 @@ As a result of the importance of Callback functions we focused on this concept a
 - [x] Bash
 - [ ] V
 - [x] Type Script
-- [x] Cow
 - [x] Fortran
 - [ ] Brainfuck
 - [ ] F#
