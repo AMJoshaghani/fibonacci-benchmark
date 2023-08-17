@@ -42,8 +42,8 @@ As a result of the importance of Callback functions we focused on this concept a
 - [x] Bash
 - [ ] V
 - [ ] Type Script
-- [ ] Cow
-- [ ] Fortran
+- [x] Cow
+- [x] Fortran
 - [ ] Brainfuck
 - [ ] F#
 - [x] PHP
