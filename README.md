@@ -36,7 +36,6 @@ As a result of the importance of Callback functions we focused on this concept a
 - [ ] Swift
 - [ ] Mojo
 - [ ] Mr. Hashemi's Language (زبان آقای هاشمی)
-- [ ] Lua
 - [ ] Haskell
 - [ ] Zig
 - [x] Bash
