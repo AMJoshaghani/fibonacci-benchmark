@@ -36,13 +36,11 @@ As a result of the importance of Callback functions we focused on this concept a
 - [ ] Swift
 - [ ] Mojo
 - [ ] Mr. Hashemi's Language (زبان آقای هاشمی)
-- [ ] Lua
 - [ ] Haskell
-- [ ] Zig
+- [x] Zig
 - [x] Bash
 - [ ] V
-- [ ] Type Script
-- [x] Cow
+- [x] Type Script
 - [x] Fortran
 - [ ] Brainfuck
 - [ ] F#
